@@ -1,5 +1,5 @@
 # Ex09 Event Registration Web Application
-## Date:10-11-23
+## Date:
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
@@ -201,9 +201,10 @@ top: 78px;
 background: url(seclogo.png);
 ```
 ## OUTPUT:
-![image](https://github.com/gifty003/Figma/assets/145822352/25a239dd-a08b-4d7f-bdb5-b21659988166)
-![image](https://github.com/gifty003/Figma/assets/145822352/42bf30fb-e558-41fe-986e-4a5f2495ab3b)
-![image](https://github.com/gifty003/Figma/assets/145822352/ba951e33-3d04-4caa-a9a0-082e51c5751f)
+<img width="1434" height="773" alt="Screenshot 2025-11-27 004509" src="https://github.com/user-attachments/assets/c200c351-f874-4112-8844-c29084fe224f" />
+<img width="1438" height="776" alt="Screenshot 2025-11-27 004525" src="https://github.com/user-attachments/assets/a3fc3bd1-754e-4737-9e5c-26dd20620da0" />
+<img width="1434" height="765" alt="Screenshot 2025-11-27 004547" src="https://github.com/user-attachments/assets/f98562fc-f2ac-4b58-907d-a276ea3b8d51" />
+
 
 
 
